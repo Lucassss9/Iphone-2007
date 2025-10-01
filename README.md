@@ -13,15 +13,14 @@ O projeto utiliza **interfaces** para cada funcionalidade, seguindo princípios 
 ---
 
 ## Estrutura do Projeto
-```plaintext
+```
 iphone/
 ├── Iphone.java
 ├── ReprodutorMusical.java
 ├── AparelhoTelefonico.java
 ├── NavegadorNaInternet.java
 └── TesteIphone.java
-
-
+```
 
 - `Iphone.java` → classe principal que implementa todas as interfaces.
 - `ReprodutorMusical.java` → interface com métodos do reprodutor musical.
