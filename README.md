@@ -30,8 +30,7 @@ iphone/
 
 ## UML do Projeto
 
-(<img width="3840" height="1383" alt="Untitled diagram _ Mermaid Chart-2025-10-01-200815" src="https://github.com/user-attachments/assets/a69a0671-6ab0-40c6-b6af-8439e1812f4c" />
-)
+<img width="3840" height="1383" alt="Untitled diagram _ Mermaid Chart-2025-10-01-200815" src="https://github.com/user-attachments/assets/a69a0671-6ab0-40c6-b6af-8439e1812f4c" />
 
 ---
 
